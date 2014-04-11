@@ -142,7 +142,7 @@
 <pack>
 	<packtitle>Boros Guild Pack</packtitle>
 	<packimage>gatecrashBorosGP</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Guild</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>gatecrash</data></packcommoncrit>
 	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>BorosGP</data></packcommoncrit>
@@ -412,7 +412,7 @@
 <pack>
 	<packtitle>M13 Booster</packtitle>
 	<packimage>2013</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>2013</data></packcommoncrit>
 	<chance>
@@ -432,7 +432,7 @@
 <pack>
 	<packtitle>Avacyn Restored Booster</packtitle>
 	<packimage>avr</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>avr</data></packcommoncrit>
 	<chance>
@@ -452,7 +452,7 @@
 <pack>
 	<packtitle>Dark Ascension Booster</packtitle>
 	<packimage>dka</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>dka</data></packcommoncrit>
 	<chance>
@@ -472,7 +472,7 @@
 <pack>
 	<packtitle>Innistrad Booster</packtitle>
 	<packimage>innistrad</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>innistrad</data></packcommoncrit>
 	<chance>
@@ -573,7 +573,7 @@
 <pack>
 	<packtitle>Mirrodin Beseiged Mirran Booster</packtitle>
 	<packimage>mbsm</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>mbs</data></packcommoncrit>
 	<packcommoncrit><field>Type</field><eval>CONTAINS</eval><data>Mirran</data></packcommoncrit>
@@ -594,7 +594,7 @@
 <pack>
 	<packtitle>Scars of Mirrodin Booster</packtitle>
 	<packimage>som</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>som</data></packcommoncrit>
 	<chance>
@@ -614,7 +614,7 @@
 <pack>
 	<packtitle>2011 Booster</packtitle>
 	<packimage>2011</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>2011</data></packcommoncrit>
 	<chance>
@@ -634,7 +634,7 @@
 <pack>
 	<packtitle>Rise of Eldrazi Booster</packtitle>
 	<packimage>roe</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>roe</data></packcommoncrit>
 	<chance>
@@ -654,7 +654,7 @@
 <pack>
 	<packtitle>Worldwake Booster</packtitle>
 	<packimage>worldwake</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>worldwake</data></packcommoncrit>
 	<chance>
@@ -674,7 +674,7 @@
 <pack>
 	<packtitle>Zendikar Booster</packtitle>
 	<packimage>zendikar</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>zendikar</data></packcommoncrit>
 	<chance>
@@ -714,7 +714,7 @@
 <pack>
 	<packtitle>Alara Reborn Booster</packtitle>
 	<packimage>arb</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>arb</data></packcommoncrit>
 	<chance>
@@ -734,7 +734,7 @@
 <pack>
 	<packtitle>Alara Reborn Booster</packtitle>
 	<packimage>arb</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>arb</data></packcommoncrit>
 	<chance>
@@ -754,7 +754,7 @@
 <pack>
 	<packtitle>Conflux Booster</packtitle>
 	<packimage>cfx</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>cfx</data></packcommoncrit>
 	<chance>
@@ -774,7 +774,7 @@
 <pack>
 	<packtitle>Shards of Alara Booster</packtitle>
 	<packimage>soa</packimage>
-	<packformat>Standard</packformat>
+	<packformat>Extended</packformat>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>soa</data></packcommoncrit>
 	<chance>
