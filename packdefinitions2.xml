@@ -1,0 +1,258 @@
+<packdefinitions version="1.0">
+
+<pack>
+	<packtitle>Random M12 White Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2012</data></packcommoncrit>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Plains</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M12 Blue Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2012</data></packcommoncrit>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Island</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M12 Black Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2012</data></packcommoncrit>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Swamp</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M12 Red Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2012</data></packcommoncrit>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Mountain</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M12 Green Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2012</data></packcommoncrit>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Forest</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random White Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Random</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Plains</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random Blue Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Random</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Island</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random Black Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Random</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Swamp</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random Red Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Random</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Mountain</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random Green Deck</packtitle>
+	<packimage>random</packimage>
+	<packformat>Random</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<chance>
+		<kind><qty>24</qty><crit><field>Name</field><eval>IS</eval><data>Forest</data></crit></kind>
+		
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>12</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+			
+		<kind><qty>22</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+</packdefinitions>

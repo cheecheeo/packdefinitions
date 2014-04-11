@@ -1,0 +1,1586 @@
+<packdefinitions version="1.0">
+
+<pack>
+	<packtitle>100 Basic Lands</packtitle>
+	<packimage>50BasicLands</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Land</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2010</data></packcommoncrit>
+	<chance>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Plains</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Island</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Swamp</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Mountain</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Forest</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Born of the Gods Booster</packtitle>
+	<packimage>bngbooster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>bng</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Theros Booster</packtitle>
+	<packimage>therosbooster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>theros</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>M14 Booster</packtitle>
+	<packimage>m14booster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>m14</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Modern Masters Booster</packtitle>
+	<packimage>modernmasters</packimage>
+	<packformat>Modern</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>modernmasters</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+
+<pack>
+	<packtitle>Dragon's Maze Booster</packtitle>
+	<packimage>dgmbooster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>dragonsmaze</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Gate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Type</field><eval>CONTAINS</eval><data>Gate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Gate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Type</field><eval>CONTAINS</eval><data>Gate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Gatecrash Booster</packtitle>
+	<packimage>gatecrash</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>gatecrash</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Boros Guild Pack</packtitle>
+	<packimage>gatecrashBorosGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>gatecrash</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>BorosGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Foundry Champion</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Boros Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Foundry Champion</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Boros Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Foundry Champion</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Boros Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Aurelia, the Warleader</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Boros Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Orzhov Guild Pack</packtitle>
+	<packimage>gatecrashOrzhovGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>gatecrash</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>OrzhovGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Treasury Thrull</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Orzhov Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Treasury Thrull</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Orzhov Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Treasury Thrull</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Orzhov Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Obzedat, Ghost Council</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Orzhov Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Dimir Guild Pack</packtitle>
+	<packimage>gatecrashDimirGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>gatecrash</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>DimirGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Consuming Aberration</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Dimir Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Consuming Aberration</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Dimir Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Consuming Aberration</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Dimir Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Lazav, Dimir Mastermind</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Dimir Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Simic Guild Pack</packtitle>
+	<packimage>gatecrashSimicGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>gatecrash</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>SimicGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fathom Mage</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Simic Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Fathom Mage</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Simic Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fathom Mage</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Simic Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Prime Speaker Zegana</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Simic Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Gruul Guild Pack</packtitle>
+	<packimage>gatecrashGruulGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>gatecrash</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>GruulGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Rubblehulk</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Gruul Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Rubblehulk</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Gruul Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Rubblehulk</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Gruul Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Borborygmos Enraged</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Gruul Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Selesnya Guild Pack</packtitle>
+	<packimage>rtrSelesnyaGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>rtr</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>SelesnyaGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Grove of the Guardian</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Selesnya Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Grove of the Guardian</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Selesnya Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Grove of the Guardian</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Selesnya Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Trostani, Selesnya's Voice</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Selesnya Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Rakdos Guild Pack</packtitle>
+	<packimage>rtrRakdosGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>rtr</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>RakdosGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Carnival Hellsteed</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Rakdos Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Carnival Hellsteed</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Rakdos Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Carnival Hellsteed</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Rakdos Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Rakdos, Lord of Riots</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Rakdos Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Azorius Guild Pack</packtitle>
+	<packimage>rtrAzoriusGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>rtr</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>AzoriusGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Archon of the Triumvirate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Azorius Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Archon of the Triumvirate</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Azorius Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Archon of the Triumvirate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Rakdos Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Isperia, Supreme Judge</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Azorius Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Izzet Guild Pack</packtitle>
+	<packimage>rtrIzzetGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>rtr</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>IzzetGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Hypersonic Dragon</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Izzet Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Hypersonic Dragon</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Izzet Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Hypersonic Dragon</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Izzet Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Niv-Mizzet, Dracogenius</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Izzet Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Golgari Guild Pack</packtitle>
+	<packimage>rtrGolgariGP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Guild</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>rtr</data></packcommoncrit>
+	<packcommoncrit><field>Text</field><eval>CONTAINS</eval><data>GolgariGP</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Corpsejack Menace</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Golgari Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Corpsejack Menace</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Golgari Guildgate</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Corpsejack Menace</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Golgari Guildgate</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Jarad, Golgari Lich Lord</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Name</field><eval>DOESNTCONTAIN</eval><data>Golgari Guildgate</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Return to Ravnica Booster</packtitle>
+	<packimage>rtr</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>rtr</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>M13 Booster</packtitle>
+	<packimage>2013</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2013</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Avacyn Restored Booster</packtitle>
+	<packimage>avr</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>avr</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Dark Ascension Booster</packtitle>
+	<packimage>dka</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>dka</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Innistrad Booster</packtitle>
+	<packimage>innistrad</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>innistrad</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>2012 Booster</packtitle>
+	<packimage>2012</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2012</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>New Phyrexia Booster</packtitle>
+	<packimage>nph</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>nph</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Mirrodin Beseiged Booster</packtitle>
+	<packimage>mbs</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>mbs</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Mirrodin Beseiged Phyrexian Booster</packtitle>
+	<packimage>mbsp</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>mbs</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>CONTAINS</eval><data>Phyrexian</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Mirrodin Beseiged Mirran Booster</packtitle>
+	<packimage>mbsm</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>mbs</data></packcommoncrit>
+	<packcommoncrit><field>Type</field><eval>CONTAINS</eval><data>Mirran</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Scars of Mirrodin Booster</packtitle>
+	<packimage>som</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>som</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>2011 Booster</packtitle>
+	<packimage>2011</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2011</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Rise of Eldrazi Booster</packtitle>
+	<packimage>roe</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>roe</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Worldwake Booster</packtitle>
+	<packimage>worldwake</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>worldwake</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Zendikar Booster</packtitle>
+	<packimage>zendikar</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>zendikar</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>2010 Booster</packtitle>
+	<packimage>2010</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>2010</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Alara Reborn Booster</packtitle>
+	<packimage>arb</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>arb</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Alara Reborn Booster</packtitle>
+	<packimage>arb</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>arb</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Conflux Booster</packtitle>
+	<packimage>cfx</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>cfx</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Shards of Alara Booster</packtitle>
+	<packimage>soa</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>soa</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Eventide Booster</packtitle>
+	<packimage>eventide</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>eventide</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Shadowmoor Booster</packtitle>
+	<packimage>shadowmoor</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>shadowmoor</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Morningtide Booster</packtitle>
+	<packimage>morningtide</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>morningtide</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Lorwyn Booster</packtitle>
+	<packimage>lorwyn</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>lorwyn</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Future Sight Booster</packtitle>
+	<packimage>fs</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>fs</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Planar Chaos Booster</packtitle>
+	<packimage>plc</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>plc</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Time Spiral Booster</packtitle>
+	<packimage>ts</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit><crit><field>Set</field><eval>IS</eval><data>ts</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit><crit><field>Set</field><eval>IS</eval><data>ts</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit><crit><field>Set</field><eval>IS</eval><data>ts</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>tsts</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Coldsnap Booster</packtitle>
+	<packimage>coldsnap</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>coldsnap</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Dissension Booster</packtitle>
+	<packimage>dissension</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>dissension</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Guildpact Booster</packtitle>
+	<packimage>guildpact</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>guildpact</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Ravnica Booster</packtitle>
+	<packimage>ravnica</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>ravnica</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Saviors of Kamigawa Booster</packtitle>
+	<packimage>sok</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>sok</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Betrayers of Kamigawa Booster</packtitle>
+	<packimage>bok</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>bok</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Champions of Kamigawa Booster</packtitle>
+	<packimage>chk</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>chk</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Fifth Dawn Booster</packtitle>
+	<packimage>fd</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>fd</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Darksteel Booster</packtitle>
+	<packimage>darksteel</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>darksteel</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Mirrodin Booster</packtitle>
+	<packimage>mirrodin</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>mirrodin</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>10th Edition Booster</packtitle>
+	<packimage>10e</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>10e</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>9th Edition Booster</packtitle>
+	<packimage>9e</packimage>
+	<packformat>Extended</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>9e</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Scourge Booster</packtitle>
+	<packimage>scourge</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>scourge</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Legions Booster</packtitle>
+	<packimage>legions</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>legions</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Onslaught Booster</packtitle>
+	<packimage>onslaught</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>onslaught</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Judgment Booster</packtitle>
+	<packimage>judgment</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>judgment</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Torment Booster</packtitle>
+	<packimage>torment</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>torment</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Odyssey Booster</packtitle>
+	<packimage>odyssey</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>odyssey</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Apocalypse Booster</packtitle>
+	<packimage>apocalypse</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>apocalypse</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Planeshift Booster</packtitle>
+	<packimage>planeshift</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>planeshift</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Invasion Booster</packtitle>
+	<packimage>invasion</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>invasion</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Prophecy Booster</packtitle>
+	<packimage>prophecy</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>prophecy</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Nemesis Booster</packtitle>
+	<packimage>nemesis</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>nemesis</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Mercandian Masques Booster</packtitle>
+	<packimage>mm</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>mm</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Urza's Destiny Booster</packtitle>
+	<packimage>ud</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>ud</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Urza's Legacy Booster</packtitle>
+	<packimage>ul</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>ul</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Urza's Saga Booster</packtitle>
+	<packimage>uz</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>uz</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Exodus Booster</packtitle>
+	<packimage>exodus</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>exodus</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Stronghold Booster</packtitle>
+	<packimage>stronghold</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>stronghold</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Tempest Booster</packtitle>
+	<packimage>tempest</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>tempest</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Weatherlight Booster</packtitle>
+	<packimage>weatherlight</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>weatherlight</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Visions Booster</packtitle>
+	<packimage>visions</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>visions</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Mirage Booster</packtitle>
+	<packimage>mirage</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>mirage</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Alliances Booster</packtitle>
+	<packimage>alliances</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>alliances</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Ice Age Booster</packtitle>
+	<packimage>ia</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>ia</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Homelands Booster</packtitle>
+	<packimage>homelands</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>homelands</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Fallen Empires Booster</packtitle>
+	<packimage>fe</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>fe</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>The Dark Booster</packtitle>
+	<packimage>dark</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>dark</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Legends Booster</packtitle>
+	<packimage>legends</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>legends</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Antiquities Booster</packtitle>
+	<packimage>antiquities</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>antiquities</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Arabian Nights Booster</packtitle>
+	<packimage>an</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>an</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>8th Edition Booster</packtitle>
+	<packimage>8e</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>8e</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>7th Edition Booster</packtitle>
+	<packimage>7e</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>7e</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>6th Edition Booster</packtitle>
+	<packimage>6e</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>6e</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>5th Edition Booster</packtitle>
+	<packimage>5e</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>5e</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>4th Edition Booster</packtitle>
+	<packimage>4e</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>4e</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Unlimited Booster</packtitle>
+	<packimage>unlimited</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>unlimited</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Beta Booster</packtitle>
+	<packimage>beta</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>beta</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Alpha Booster</packtitle>
+	<packimage>alpha</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>alpha</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+
+<pack>
+	<packtitle>Portal: 3 Kingdoms</packtitle>
+	<packimage>p3k</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>p3k</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Portal: Second Age Booster</packtitle>
+	<packimage>portal2</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>portal2</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Portal Booster</packtitle>
+	<packimage>portal</packimage>
+	<packformat>Vintage</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>portal</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Unhinged Booster</packtitle>
+	<packimage>unhinged</packimage>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>unhinged</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Unglued Booster</packtitle>
+	<packimage>unglued</packimage>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>unglued</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+</packdefinitions>
