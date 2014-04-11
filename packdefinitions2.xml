@@ -1,6 +1,126 @@
 <packdefinitions version="1.0">
 
 <pack>
+	<packtitle>Random M14 White 45 pack</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>m14</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>14</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+
+		<kind><qty>29</qty>
+			<crit><field>Color</field><eval>IS</eval><data>W</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M14 Black 45 pack</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>m14</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>14</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+
+		<kind><qty>29</qty>
+			<crit><field>Color</field><eval>IS</eval><data>B</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M14 Blue 45 pack</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>m14</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>14</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+
+		<kind><qty>29</qty>
+			<crit><field>Color</field><eval>IS</eval><data>U</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M14 Red 45 pack</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>m14</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>14</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+
+		<kind><qty>29</qty>
+			<crit><field>Color</field><eval>IS</eval><data>R</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Random M14 Green 45 pack</packtitle>
+	<packimage>random</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Random Deck</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>m14</data></packcommoncrit>
+	<chance>
+		<kind><qty>2</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+			</kind>
+		<kind><qty>14</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+			</kind>
+
+		<kind><qty>29</qty>
+			<crit><field>Color</field><eval>IS</eval><data>G</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+			</kind>
+	</chance>
+</pack>
+
+<pack>
 	<packtitle>Random M12 White Deck</packtitle>
 	<packimage>random</packimage>
 	<packformat>Standard</packformat>
