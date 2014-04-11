@@ -6,7 +6,7 @@
 	<packformat>Standard</packformat>
 	<packkind>Land</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>2010</data></packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>m14</data></packcommoncrit>
 	<chance>
 		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Plains</data></crit></kind>
 		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Island</data></crit></kind>
