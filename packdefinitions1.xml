@@ -17,6 +17,26 @@
 </pack>
 
 <pack>
+	<packtitle>Journey into Nyx Booster</packtitle>
+	<packimage>joubooster</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>jou</data></packcommoncrit>
+	<chance>
+		<prob>87</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>13</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
 	<packtitle>Born of the Gods Booster</packtitle>
 	<packimage>bngbooster</packimage>
 	<packformat>Standard</packformat>
